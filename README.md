@@ -1,1 +1,2 @@
-# An-lisis-predictivo-y-Machine-Learning
+# Analisis-predictivo-y-Machine-Learning
+Gamboa Vargas Eduardo Gabriel
